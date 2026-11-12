@@ -9,13 +9,6 @@ No Mac, App Store account, paid API, login, or backend required. This is a Progr
 - Rewards stay locked until you mark a challenge complete.
 - History and unlocked rewards tabs, dark mobile layout, local storage, basic offline cache.
 
-## Publish free with GitHub Pages (Windows is fine)
-1. Sign in/create an account at https://github.com.
-2. Create a **public** repository named `challenge-yourself`.
-3. Upload every file in this folder to the repository root.
-4. Open **Settings → Pages**.
-5. Choose **Deploy from a branch**, select `main` and `/(root)`, then Save.
-6. After publishing, your URL will look like `https://YOUR-USERNAME.github.io/challenge-yourself/`.
 
 ## Add to iPhone
 1. Open the published HTTPS URL in **Safari**.
